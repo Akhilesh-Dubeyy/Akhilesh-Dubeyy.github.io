@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a M.Sc. student in the Physics department at the University of Delhi.
-* My research interests lie in 
+* My research interest lie in 
 * I received my Bachelor’s Degree in Physics at Jamia Millia Islamia. 
 * I'm from,
 * Please reach me at <a href = "mailto: stoicishiv@hotmail.com">stoicishiv[at]hotmail[dot]com</a>
