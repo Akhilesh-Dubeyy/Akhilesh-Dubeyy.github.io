@@ -8,9 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shivam Sawarn"
+title                    : "Akhilesh Dubey"
 title_separator          : "-"
-name                     : &name "Shivam Sawarn"
+name                     : &name "Akhilesh Dubey"
 description              : &description "M.Sc. Physics Student"
 url                      : https://stoicodin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
