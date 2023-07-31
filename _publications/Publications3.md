@@ -1,8 +1,8 @@
 ---
 title: "Optimising Quantum Error Correction with Mach-Zehnder Interferometer"
-collection: publications
-permalink: /publication/laser_linewidth
-venue: 'International Conference on Mathematical Modelling and emerging trends in Computing'
+collection:
+permalink: 
+venue: 
 date: 2023-10-07
 
 
