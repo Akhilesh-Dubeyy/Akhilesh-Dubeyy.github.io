@@ -84,7 +84,7 @@ author:
   name             : "Akhilesh Dubey"
   avatar           : "Akhilesh_Profile_Img.jpg"
   bio              : "M.Sc Physics student at University of Delhi. I am interested in Quantum information theory"
-  location         : "Delhi, Indi"
+  location         : "Delhi, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :  "@iamakhilesh01"   #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
