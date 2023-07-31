@@ -1,0 +1,38 @@
+---
+title: "Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with  Homodyne Technique"
+collection: publications
+permalink: /publication/laser_linewidth
+venue: 'International Conference on Mathematical Modelling and emerging trends in Computing'
+date: 2023-10-07
+
+
+---
+
+
+<i>In preparation:</i> Shivam Sawarn, Akhilesh Dubey, Priyanka, Shaik Ahmed,D Sajeev, Ram Soorat, <b>Optimising Quantum Error Correction with Mach-Zehnder Interferometer, March 2023.</b>
+
+
+
+
+## Abstract
+
+
+The Mach-Zehnder Interferometer (MZI) is a robust quantum optics research tool. We
+have used it to investigate the behavior of quantum states, namely coherent states and
+superposition levels. Coherent states with classical-like characteristics are annihilation
+operator eigenstates with a well-defined phase. Superposition states, on the other hand,
+
+are quantum states that exist as a linear combination of several states, each with a match-
+ing probability amplitude. One significant use in the area of quantum error correction is
+
+the implementation of the Shor code for quantum error correction. It is possible to ex-
+amine the impact of faults on the logical qubits and perform error correction operations
+
+by encoding quantum information into logical qubits using the Shor code.
+
+<figure>
+  <img src="/images/Errorcorrection.png" alt="Trulli" style="width:100%">
+  <figcaption>NIST Test Result</figcaption>
+</figure>
+
+
