@@ -11,4 +11,4 @@ Abstract
 ======
 
 We investigate systematic methods to generate a desired probability distribution from a quantum
-circuit functionality. Using Wolfram quantum framework, we created a high-level circuit model which produces a desired probability result that matches the desired random probability generator output. Further, it is run on quantum computers of varying qubits to investigate various type of errors.
+circuit functionality. Using Wolfram quantum framework, we created a high-level circuit model which produces a desired probability result that matches the desired random probability generator output. Further, it is run on quantum computers of varying qubits to investigate various type of errors.jjjjjjjjjjjjjjjjjjjjjjj
