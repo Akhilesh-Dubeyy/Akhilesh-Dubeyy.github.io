@@ -10,7 +10,7 @@ date: 2023-10-07
 
 [[Conference Webpage]](https://icmmetc-2023.woxsen.edu.in)
 <br>
-<i>In preparation:</i> **Akhilesh Dubey**, <b>Shivam Sawarn</b>, Priyanka, Shaik Ahmed, Ram Soorat Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with Homodyne Technique, <b>**Modern Physics Letters-B (I.F: 1.948)**</b>
+<i>In preparation:</i> **Akhilesh Dubey**, Shivam Sawarn, Priyanka, Shaik Ahmed, Ram Soorat Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with Homodyne Technique, <b>**Modern Physics Letters-B (I.F: 1.948)**</b>
 
 
 ## Abstract
@@ -21,4 +21,10 @@ In this work, we investigate the effects of laser linewidth and detector bandwid
 <figure>
   <img src="/images/linewidth.jpg" alt="Trulli" style="width:100%">
   <figcaption>NIST Test Result</figcaption>
+</figure>
+
+
+<figure>
+  <img src="/images/10000linewidth.png" alt="Trulli" style="width:80%">
+  <figcaption>Laserlinewidth with 10000 Hz</figcaption>
 </figure>
