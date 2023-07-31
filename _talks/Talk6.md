@@ -15,4 +15,7 @@ Hadamard, Walsh and obtained results.
 
 * Analyzed more than 3,600 images for training to detect patterns in data for machine learning model and
 analysing over 21,600 images with an efficient accuracy and less loss.
-
+<figure>
+  <img src="/images/Imagingmethod.png" alt="Trulli" style="width:80%">
+  <figcaption>Matrix representation of operated state</figcaption>
+</figure>

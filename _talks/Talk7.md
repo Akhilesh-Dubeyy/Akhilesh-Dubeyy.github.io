@@ -15,3 +15,7 @@ location: "Remote"
 * Continuing the project under Wolfram Research for bench marking on real quantum computers
 
 
+<figure>
+  <img src="/images/winterschool.png" alt="Trulli" style="width:80%">
+  <figcaption>The summary of the changing probabilities with increasing gate operation.</figcaption>
+</figure>
