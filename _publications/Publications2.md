@@ -25,6 +25,6 @@ In this work, we investigate the effects of laser linewidth and detector bandwid
 
 
 <figure>
-  <img src="/images/10000linewidth.png" alt="Trulli" style="width:80%">
+  <img src="/images/10000linewidth.png" alt="Trulli" style="width:100%">
   <figcaption>Laserlinewidth with 10000 Hz</figcaption>
 </figure>
