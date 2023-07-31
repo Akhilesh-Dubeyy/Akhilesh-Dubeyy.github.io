@@ -7,7 +7,7 @@ date: 2023-10-07
 
 
 ---
-[[Conference]](https://icmmetc-2023.woxsen.edu.in)
+[[Conference]](https://icmmetc-2023.woxsen.edu.in)<br>
 In preparation:  Akhilesh Dubey, Shivam Sawarn, Priyanka, Shaik Ahmed,Ram Soorat Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with Homodyne Technique, Modern Physics Letters-B (I.F: 1.948)
 <br>
 
