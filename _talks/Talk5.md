@@ -1,12 +1,19 @@
 ---
-title: "Energy and Probability density of hydrogen atom"
+title: "Numerically Solving Schrodinger equation using Python"
 collection: talks
 type: "Talk"
 permalink: /talks/bachelors
-venue: "B.Sc Physics"
+venue: "B.Sc(Honours)Physics"
 date: 2021-07-01
 location: "Jamia Millia Islamia"
 ---
 * Submitted as a project in Bachelors final semester.
 
-* Worked on Radial probability density and Energy associated with different states of Hydrogen is visualized using Numerov-Cooley method in FORTRAN.
+* Employed the different computational methods using python to solve numerically solving the Schrodinger Equation.
+
+* Solved finite square well bound state of Harmonic Oscillator using Taylors method, Discritization, Forward and Backward first order differential(first & second order), finite difference method and Matrix representation.
+
+<figure>
+  <img src="/images/Jmiproject.png" alt="Trulli" style="width:80%">
+  <figcaption>Obtaining graph as a result through finite difference method</figcaption>
+</figure>

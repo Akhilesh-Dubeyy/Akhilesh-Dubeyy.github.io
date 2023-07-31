@@ -1,12 +1,14 @@
 ---
-title: "Predicting the electron invariant mass from the CERN di-electron collision data"
+title: "Quantum Tic-Tac-Toe Game"
 collection: talks
 type: "Project"
 permalink: /talks/wiss
-venue: "Wolfram India School 2022"
-date: 2022-01-13
+venue: "Wolfram Summer School 2022"
+date: 2022-07-13
 location: "Remote"
 ---
-* Attended 3 weeks school and completed the [project](https://www.notebookarchive.org/predicting-the-electron-invariant-mass-from-the-cern-dielectron-collision-data--2022-01-5kbhz3u/) under a mentor.
+* Presented and Published the project in [Wolfram Summer School 2022](https://notebookarchive.org/tic-tac-toe-a-quantum-probabilistic-approach--2022-07-9ozi0wh/) under a mentor.
 
-* Explored various features of the di-electron collision using rigorous data analysis tools and used neural network to test dataset for prdicting the invariant mass of the electron.
+* The project proposes quantum version of Tic-Tac-Toe which accurately resemble the inherent probabilistic nature of the measurement Principle in Quantum Mechanics.
+
+* Aimed at showing the formulation of quantum rules, by using quantum superposition of different states and entanglement from the aid of qutrits and quantum gates representing the whole Game Tree.
