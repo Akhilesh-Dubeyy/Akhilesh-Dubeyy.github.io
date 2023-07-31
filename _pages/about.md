@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 * I am a M.Sc. student in the Physics department at the University of Delhi.
-* My research interest lie in 
-* I received my Bachelor’s Degree in Physics at Jamia Millia Islamia. 
-* I'm from,
-* Please reach me at <a href = "mailto: stoicishiv@hotmail.com">stoicishiv[at]hotmail[dot]com</a>
+* My main research interest investigation of cuttting-edge quantum information theory. My intrest combines tools from quantum information theory, quantum optics and mathematical physics.
+* I received my Bachelor’s Degree with honours in Physics at Jamia Millia Islamia. 
+* I'm from New Delhi, India.
+* Please reach me at <a href = "mailto: akhileshdubey799@gmail.com">akhileshdubey799[at]gmail[dot]com</a>
 * For more details, check out my [CV]()
