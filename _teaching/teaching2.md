@@ -1,13 +1,14 @@
 ---
-title: "Mentor"
+title: "Subject Matter Expert"
 collection: teachings
-type: "Qiskit"
+type: 
 permalink: /teaching/mentor
-venue: "IBM"
-location: "Remote"
-date: 2022-08-01
+venue: 
+location: "Remote and In Person"
+date: 2020-04-01
 ---
 Worked as mentor in different events including:
-* Quantum Global Summer School 2023
-* IBM Quantum Challange Spring'23
-* IBM Quantum Challange Fall'22
+* Collaborated with students to help in completing homework assignments, identify lagging skills and correct
+weaknesses
+* Drilled students on subject matter and used flashcards and writing technique to improve recoil.
+

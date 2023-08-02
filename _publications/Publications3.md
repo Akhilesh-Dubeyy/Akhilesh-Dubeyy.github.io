@@ -21,7 +21,7 @@ The Mach-Zehnder Interferometer (MZI) is a robust quantum optics research tool. 
 
 <figure>
   <img src="/images/Errorcorrection.png" alt="Trulli" style="width:100%">
-  <figcaption>NIST Test Result</figcaption>
+  <figcaption>Possible combination of errors(I/X/Z) applied and their corresponding counts(error1 & error2 correspond to error applied to first and second qubit correspondingly indicated on top of each figure) after implementation of shor code</figcaption>
 </figure>
 
 
