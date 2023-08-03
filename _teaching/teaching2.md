@@ -1,5 +1,5 @@
 ---
-title: "Subject Matter Expert"
+title: "Subject Matter Expert in Advanced Physics"
 collection: teachings
 type: 
 permalink: /teaching/mentor
