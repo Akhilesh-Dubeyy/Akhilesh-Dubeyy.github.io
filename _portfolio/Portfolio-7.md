@@ -2,6 +2,7 @@
 title: "Computational Mathematics with Sage Math (IIT Madras)"
 excerpt: "Developed a Quantum Maze Game"
 collection: portfolio
+date: 2020-03-1
 ---
 [Verify](https://drive.google.com/file/d/102AqZSjR8ZiBFUFD8tl4bDko70iX1amC/view) 
 

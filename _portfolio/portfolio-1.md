@@ -2,6 +2,7 @@
 title: "Internship in Research Training"
 excerpt: "(Ministry of Micro, Small and Medium Enterprises, Government of India Society"
 collection: portfolio
+date: 2023-07-1
 
 
 

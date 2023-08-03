@@ -2,6 +2,7 @@
 title: "Qbronze"
 excerpt: "Received certification for demonstration of proficiency in the language."
 collection: portfolio
+date: 2021-11-1
 ---
 [NPTEL](https://1drv.ms/i/s!AllCcwLfbSCpiGJQVuyhNfyHErRU?e=gChWuj)
 
