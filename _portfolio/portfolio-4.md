@@ -1,10 +1,10 @@
 ---
-title: "Qbronze"
-excerpt: "Received certification for demonstration of proficiency in the language."
+title: "QWorld Diploma"
+excerpt: "QBronze Course"
 collection: portfolio
-date: 2021-11-1
+date: 2020-11-15
 ---
-[NPTEL](https://1drv.ms/i/s!AllCcwLfbSCpiGJQVuyhNfyHErRU?e=gChWuj)
+[Verify](https://1drv.ms/i/s!AllCcwLfbSCpiGJQVuyhNfyHErRU?e=gChWuj)
 
 * Learned about classical systems (Probabilistic bits, coin-flipping, biased coins, probabilistic states, and probabilistic operators, correlation).
 

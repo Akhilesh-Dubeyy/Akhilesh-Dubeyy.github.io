@@ -2,8 +2,9 @@
 title: "MIT IQUHACK Hackathon"
 excerpt: "Developed a Quantum Maze Game"
 collection: portfolio
+date: 2022-02-28
 ---
-[Verify](https://drive.google.com/file/d/102AqZSjR8ZiBFUFD8tl4bDko70iX1amC/view) 
+[Verify](https://drive.google.com/file/d/1GODIIyzpUlyVNzRA1nf8uQjr3xKGVC9Z/view?usp=sharing) 
 
 
 * Developed a quantum maze game which is a classical ludo inspired game that allows beginners to delve
