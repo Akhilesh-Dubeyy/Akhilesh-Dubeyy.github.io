@@ -3,7 +3,7 @@ title: "Investigating the Effects of Laser Linewidth and Detector Bandwidth on S
 collection: publications
 permalink: /publication/laser_linewidth
 venue: 'International Conference on Mathematical Modelling and emerging trends in Computing'
-date: 2023-10-07
+date: 2023-10-06
 
 
 ---
