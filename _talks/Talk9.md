@@ -4,7 +4,7 @@ collection: talks
 type: "Project"
 permalink: /talks/wiss
 venue: "Wolfram Summer School 2022"
-date: 2022-07-13
+date: 2022-07-22
 location: "Remote"
 ---
 * Presented and Published the project in [Wolfram Summer School 2022](https://notebookarchive.org/tic-tac-toe-a-quantum-probabilistic-approach--2022-07-9ozi0wh/) under a mentor.

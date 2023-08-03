@@ -1,10 +1,10 @@
 ---
 title: "Numerically Solving Schrodinger equation using Python"
 collection: talks
-type: "Talk"
+type: "Project Work"
 permalink: /talks/bachelors
-venue: "B.Sc(Honours)Physics"
-date: 2021-07-01
+venue: "B.Sc (Honours) Physics"
+date: 2021-04-01
 location: "Jamia Millia Islamia"
 ---
 * Submitted as a project in Bachelors final semester.

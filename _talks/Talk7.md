@@ -1,9 +1,9 @@
 ---
 title: "Target Probabilities with Quantum Circuits"
 collection: talks
-type: "Summer Project"
-date: 2023-07-01
-permalink: /talks/ibmq
+type: "Project"
+date: 2023-01-14
+permalink: /talks/Wolfram
 venue: "Wolfram Fundamental Winter School"
 location: "Remote"
 ---

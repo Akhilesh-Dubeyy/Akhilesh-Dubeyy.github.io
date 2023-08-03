@@ -2,7 +2,7 @@
 title: "Optimising Quantum Error Correction with Mach-Zehnder Interferometer"
 collection:
 permalink: 
-venue: 'In Preparation'
+venue: '(In Preparation)'
 date: 2023-10-06
 
 
