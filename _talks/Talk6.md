@@ -7,6 +7,8 @@ permalink: /talks/Consultant
 venue: "Quantum Science and Technology Science, Physical Research Laboratory, Ahemdabad, Gujrat, India"
 location: 
 ---
+* Mentor: [Dr. Shashi Prabhakar](https://www.prl.res.in/~shaship/#group)
+
 * Combined two techniques of computational ghost imaging and machine learning to identify the object in
 effectively less amount of time.
 
