@@ -1,15 +1,15 @@
 ---
 title: "Optimising Quantum Error Correction with Mach-Zehnder Interferometer"
-#collection:
-#permalink: 
-#venue: 
-date: 2023-10-07
+collection:
+permalink: 
+venue: 'In Preparation'
+date: 2023-10-06
 
 
 ---
 
 
-<i>In preparation:</i> Shivam Sawarn, ,<b>Akhilesh Dubey</b>, Priyanka, Shaik Ahmed,D Sajeev, Ram Soorat, <b>Optimising Quantum Error Correction with Mach-Zehnder Interferometer, March 2023.</b>
+<i>In preparation:</i> Shivam Sawarn, <b>Akhilesh Dubey</b>, Priyanka, Shaik Ahmed, D Sajeev, Ram Soorat, <b>Optimising Quantum Error Correction with Mach-Zehnder Interferometer, March 2023.</b>
 
 
 
