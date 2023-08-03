@@ -3,14 +3,14 @@ title: "Investigating the Effects of Laser Linewidth and Detector Bandwidth on S
 collection: publications
 permalink: /publication/laser_linewidth
 venue: 'International Conference on Mathematical Modelling and emerging trends in Computing'
-date: 2023-10-06
+date: 2023-10-07
 
 
 ---
 
 [[Conference Webpage]](https://icmmetc-2023.woxsen.edu.in)
 <br>
-<i>In preparation:</i> **Akhilesh Dubey**, Shivam Sawarn, Priyanka, Shaik Ahmed, Ram Soorat Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with Homodyne Technique, <b>**Modern Physics Letters-B (I.F: 1.948)**</b>
+<i>In preparation:</i> **Akhilesh Dubey**, Shivam Sawarn, Priyanka, Shaik Ahmed, Ram Soorat, Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with Homodyne Technique, <b>**Modern Physics Letters-B (I.F: 1.948)**</b>
 
 
 ## Abstract
