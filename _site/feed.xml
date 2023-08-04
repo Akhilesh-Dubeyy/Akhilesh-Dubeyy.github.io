@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-04T03:06:22-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Akhilesh Dubey</title><subtitle>M.Sc. Physics Student</subtitle><author><name>Akhilesh Dubey</name><email>akhileshdueby799@gmail.com</email></author><entry><title type="html">Skills</title><link href="http://localhost:4000/posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Skills" /><published>2023-08-01T00:00:00-07:00</published><updated>2023-08-01T00:00:00-07:00</updated><id>http://localhost:4000/posts/2012/08/blog-post-1</id><content type="html" xml:base="http://localhost:4000/posts/2012/08/blog-post-1/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-08-04T03:08:34-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Akhilesh Dubey</title><subtitle>M.Sc. Physics Student</subtitle><author><name>Akhilesh Dubey</name><email>akhileshdueby799@gmail.com</email></author><entry><title type="html">Skills</title><link href="http://localhost:4000/posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Skills" /><published>2023-08-01T00:00:00-07:00</published><updated>2023-08-01T00:00:00-07:00</updated><id>http://localhost:4000/posts/2012/08/blog-post-1</id><content type="html" xml:base="http://localhost:4000/posts/2012/08/blog-post-1/">&lt;style&gt;
 table, th, td {
   border: 1px solid black;
 }
@@ -12,7 +12,7 @@ table, th, td {
     &lt;td&gt;Python, C, Wolfram Language, Fortran, Git&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-  &lt;th&gt;Packages &amp;amp; Library&lt;/th&gt;
+  &lt;th&gt;Packages &amp; Library&lt;/th&gt;
   &lt;td&gt;QuTip, Matplotlib, Numpy, TensorFlow, Keras, Pandas, Scipy, Sklearn&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -43,20 +43,20 @@ table, th, td {
 
 
 &lt;/table&gt;</content><author><name>Akhilesh Dubey</name><email>akhileshdueby799@gmail.com</email></author><category term="cool posts" /><category term="category1" /><category term="category2" /><summary type="html"></summary></entry><entry><title type="html">Relevent Course Work Experience</title><link href="http://localhost:4000/blog-post-2/" rel="alternate" type="text/html" title="Relevent Course Work Experience" /><published>2023-08-01T00:00:00-07:00</published><updated>2023-08-01T00:00:00-07:00</updated><id>http://localhost:4000/blog-post-2</id><content type="html" xml:base="http://localhost:4000/blog-post-2/">&lt;ul&gt;
-&lt;li&gt;Quantum Mechanics &lt;/li&gt; The Schrodinger Equation, Operator &amp;amp; matrices, The three-Dimensional Problem,
+&lt;li&gt;Quantum Mechanics &lt;/li&gt; The Schrodinger Equation, Operator &amp; matrices, The three-Dimensional Problem,
 Quantum Dynamics, Angular Momentum, Approximation methods for Static and Time Dependent
 Perturbation, Scattering, Relativistic Quantum Mechanics
-&lt;li&gt;Solid State Physics&lt;/li&gt; Band Theory of Solids, Semiconductors, Superconductors, Crystal binding &amp;amp; Lattice
-&amp;amp; Atomic Bonding, Dielectrics and Magnetic property
-&lt;li&gt;Atomic &amp;amp; Molecular Physics&lt;/li&gt; Atomic Physics, Molecular Structure, Molecular Spectra, Lasers
-&lt;li&gt;Statistical Physics&lt;/li&gt; Quantum Statistical Mechanics, Canonical Ensemble Theory, Interacting system &amp;amp;
+&lt;li&gt;Solid State Physics&lt;/li&gt; Band Theory of Solids, Semiconductors, Superconductors, Crystal binding &amp; Lattice
+&amp; Atomic Bonding, Dielectrics and Magnetic property
+&lt;li&gt;Atomic &amp; Molecular Physics&lt;/li&gt; Atomic Physics, Molecular Structure, Molecular Spectra, Lasers
+&lt;li&gt;Statistical Physics&lt;/li&gt; Quantum Statistical Mechanics, Canonical Ensemble Theory, Interacting system &amp;
 Phase Transition
-&lt;li&gt;Computational Physics&lt;/li&gt; Scientific Programming and Logic(Python &amp;amp; Fortran), Programming in C,
-Numerical Methods , Matrices &amp;amp; Integration
+&lt;li&gt;Computational Physics&lt;/li&gt; Scientific Programming and Logic(Python &amp; Fortran), Programming in C,
+Numerical Methods , Matrices &amp; Integration
 &lt;li&gt;Mathematical Physics&lt;/li&gt; Linear Vector Space, Theory of Probability and Statistics, Complex Analysis,
 Tensors, Special Functions, Dirac Delta Function, Fourier Series and Transform
-&lt;li&gt;Mathematics&lt;/li&gt; Single &amp;amp; Multi Variable Calculus, Linear Algebra, Groups, Rings &amp;amp; Vector Spaces,
-Ordinary &amp;amp; Partial Differential Equations
+&lt;li&gt;Mathematics&lt;/li&gt; Single &amp; Multi Variable Calculus, Linear Algebra, Groups, Rings &amp; Vector Spaces,
+Ordinary &amp; Partial Differential Equations
 &lt;li&gt;Optics&lt;/li&gt;Young’s Double slit experiment, Division of wave front. Fresnel’s bi-prism.
 Division of amplitude. Interference in thin films, Newton’s rings, Michelson’s interferometer, Polarisation Plane, circular and elliptical polarization of light, Double refraction, Nicol prisms, Wave plates, Optical activity, Fermat’s principle of geometrical optics, Huygen’s principle, Resolving power of optical in- strunents
 and diffraction grating, Principle of lasers and holography
