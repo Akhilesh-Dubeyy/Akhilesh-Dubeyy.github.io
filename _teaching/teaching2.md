@@ -1,9 +1,9 @@
 ---
 title: "Subject Matter Expert in Advanced Physics"
 collection: teachings
-type: 
+type: Company
 permalink: /teaching/mentor
-venue: 
+venue: Chegg, Bartelby
 location: "Remote and In Person"
 date: 2020-04-01
 ---

@@ -7,7 +7,7 @@ venue: "Wolfram"
 location: "Remote"
 date: 2023-05-02
 ---
-[Verify](https://www.wolfram.com/company/careers/ambassador/)
+[Website](https://www.wolfram.com/company/careers/ambassador/)
 
 * Setting up the workshops for Wolfram live coding events and mini hackathons at schools and universities.
 * Participation in roundtables with Wolfram developer.

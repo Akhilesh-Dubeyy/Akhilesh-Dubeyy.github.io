@@ -1,6 +1,6 @@
 ---
 title: "Student development program on Artificial Intelligence and Machine learning by IIT Kanpur"
-excerpt: "For completing the online workshop of Quantum Computing & Programming during the QWorld Summer School 2021, focusing on complex numbers and Shor's algorithm, using  QWorld's intermediate level tutorial Silver"
+excerpt: "Certification for proficiency"
 collection: portfolio
 date: 2023-04-15
 ---
