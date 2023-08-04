@@ -6,8 +6,7 @@ venue: 'South Asia Wolfram Virtual Technology Conference'
 date: 2023-10-02
 ---
 <h1>Conference Presentation</h1>
-[[Weblink]](https://www.wolfram.com/events/virtual-conference-south-asia/2023/schedule/) [[Presentation]](https://www.bigmarker.com/wolfram-u/south-asia-conference-2023?bmid=3f8fc05963c1&amp;source_from=invitation) [[Code]](https://community.wolfram.com/groups/-/m/t/2777794)
-
+[[Weblink]](https://www.wolfram.com/events/virtual-conference-south-asia/2023/schedule/) [[Presentation]](https://www.bigmarker.com/wolfram-u/south-asia-conference-2023?bmid=3f8fc05963c1&amp;source_from=invitation) 
 Abstract
 ======
 

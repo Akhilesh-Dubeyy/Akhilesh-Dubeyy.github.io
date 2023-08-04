@@ -20,9 +20,6 @@ location: "Remote"
 
 
 
-<figure>
-  <img src="/images/TicTacToeImg.png" alt="Trulli" style="width:80%">
-  <figcaption>Matrix representation of operated state</figcaption>
-</figure>
+<iframe width='800' height='400' src='https://www.wolframcloud.com/obj/81b82e2c-301b-421a-a3b9-a7b7fe9db943' frameborder='0'></iframe>
 
 

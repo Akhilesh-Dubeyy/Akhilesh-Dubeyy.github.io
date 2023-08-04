@@ -7,9 +7,9 @@ permalink: /talks/Consultant
 venue: "Quantum Science and Technology Science, Physical Research Laboratory, Ahemdabad, Gujrat, India"
 location: 
 ---
-* Mentor: [Dr. Shashi Prabhakar](https://www.prl.res.in/~shaship/#group)
+* Mentor: [Dr. Shashi Prabhakar](https://www.prl.res.in/~shaship/#group) [AMOPH Division](https://www.prl.res.in/~shaship/#about)
 
-* Combined two techniques of quantum ghost imaging and machine learning to identify the object in
+* [Project](https://stoicodin.github.io/files/SIP 2023 Akhilesh_Dubey.pdf) Combined two techniques of quantum ghost imaging and machine learning to identify the object in
 effectively less amount of time.
 
 * Implemented the simulation part for various masks used in quantum ghost imaging experiment like
