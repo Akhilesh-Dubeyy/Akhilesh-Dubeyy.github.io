@@ -9,8 +9,8 @@ location:
 ---
 * Mentor: [Dr. Shashi Prabhakar](https://www.prl.res.in/~shaship/#group) [AMOPH Division](https://www.prl.res.in/~shaship/#about)
 
-* [Project](https://stoicodin.github.io/files/SIP 2023 Akhilesh_Dubey.pdf) Combined two techniques of quantum ghost imaging and machine learning to identify the object in
-effectively less amount of time.
+* [Project](https://Akhilesh-Dubeyy.github.io/files/SIP_2023_Akhilesh_Dubey.pdf) Combined two techniques of quantum ghost imaging and machine learning to identify the object in
+effectively less amount of time.Akhilesh-Dubeyy
 
 * Implemented the simulation part for various masks used in quantum ghost imaging experiment like
 Hadamard, Walsh and obtained results.
@@ -18,7 +18,7 @@ Hadamard, Walsh and obtained results.
 * Analyzed more than 3,600 images for training to detect patterns in data for machine learning model and
 analysing over 21,600 images with an efficient accuracy and less loss.
 
-* Performed quantum ghost experiment using SPDC process for single photons using non-linear crystal,dichroic mirror, spatial light modulator, avalanche photo-diode,  Coincidence Counter, Lenses and mirror. Learned about single photon and its intresting other methods for generation like in quntum Key Distribution for teleportation.
+* Learned quantum ghost experiment using SPDC process for single photons using non-linear crystal,dichroic mirror, spatial light modulator, avalanche photo-diode,  Coincidence Counter, Lenses and mirror. Learned about single photon and its intresting other methods for generation like in quntum Key Distribution for teleportation.
 
 * Reconstructed the image generated from the experiment and used machine learning algorithms to detect images.
 
