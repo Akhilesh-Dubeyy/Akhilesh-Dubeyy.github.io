@@ -1,6 +1,6 @@
 ---
 title: "Wolfram Language"
-excerpt: "Received various certification for demonstration of proficiency in the language.
+excerpt: "Received various certification for demonstration of proficiency in the Wolfram language.
 <br/> <br/><img src=''>"
 collection: portfolio
 date: 2020-07-1
@@ -13,7 +13,7 @@ guides each session by sharing introducing practice problems and answering quest
  <br> Focused on building fundamental concepts in calculus. A certificate of program completion will be
 awarded to participants who attend online sessions and pass quizzes.
 
-* Linear Algebra(https://drive.google.com/file/d/1_OV9pjrkHdzFHuuhxlkypiVSgfU9mKQs/view?usp=sharing) By Wolfram Mathematica
+* [Linear Algebra](https://drive.google.com/file/d/1_OV9pjrkHdzFHuuhxlkypiVSgfU9mKQs/view?usp=sharing) By Wolfram Mathematica
  <br>Concepts and techniques learned from linear algebra in cutting-edge disciplines such as data science,
 quantum computation and in the field of numerical analysis.
  <br> Solved and attend online sessions and pass quizzes to get course completion .

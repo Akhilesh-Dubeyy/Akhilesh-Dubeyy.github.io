@@ -1,6 +1,6 @@
 ---
 title: "Computational Mathematics with Sage Math (IIT Madras)"
-excerpt: "Developed a Quantum Maze Game"
+excerpt: "Recieved certification after succesfully completed the course using python"
 collection: portfolio
 date: 2020-03-28
 ---

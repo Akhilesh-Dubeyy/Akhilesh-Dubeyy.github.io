@@ -7,8 +7,8 @@ venue: "Uttarkunji"
 location: "In-Person"
 date: 2021-05-02
 ---
-[Verify](https://uttarkunji.com/)
+[Website](https://uttarkunji.com/)
 
 * Our platform offers an extensive collection of M.Sc Physics previous year questions, answers, syllabi, cutoffs,
-and seat matrices designed.
+and seat matrices designed which is useful in Indian Central Univeristies and Research Institutions.
 

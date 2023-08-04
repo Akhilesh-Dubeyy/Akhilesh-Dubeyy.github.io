@@ -9,7 +9,7 @@ location:
 ---
 * Mentor: [Dr. Shashi Prabhakar](https://www.prl.res.in/~shaship/#group)
 
-* Combined two techniques of computational ghost imaging and machine learning to identify the object in
+* Combined two techniques of quantum ghost imaging and machine learning to identify the object in
 effectively less amount of time.
 
 * Implemented the simulation part for various masks used in quantum ghost imaging experiment like

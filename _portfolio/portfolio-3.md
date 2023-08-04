@@ -1,10 +1,10 @@
 ---
 title: "Physics through computational thinking by IISER Bhopal"
-excerpt: "Received various certifications for demonstration of proficiency in wolfram language."
+excerpt: "Received certification for demonstration of proficiency in computational physics."
 collection: portfolio
-date: 2022-02-1
+date: 2022-03-1
 ---
-[Prutor.ai](https://1drv.ms/b/s!AllCcwLfbSCpiGDrspce8Vs66xvm?e=Tv2AID) [NPTEL](https://1drv.ms/b/s!AllCcwLfbSCpiF8sSit2A6gSzJ2p?e=mNdTDt)
+ [Verify](https://drive.google.com/file/d/1TMtBedE89AJJyHe2vZj6Nv2CmdCSnBMR/view?usp=sharing)
 
 
 

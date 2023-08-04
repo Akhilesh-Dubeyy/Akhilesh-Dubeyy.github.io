@@ -1,6 +1,6 @@
 ---
 title: "QWorld Diploma"
-excerpt: "QBronze Course"
+excerpt: "Recieve Certification for QBronze Course"
 collection: portfolio
 date: 2020-11-15
 ---
