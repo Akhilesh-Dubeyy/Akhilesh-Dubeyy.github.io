@@ -21,7 +21,7 @@ redirect_from:
   * Fall 2021<br>
     * Received a badge for demonstrating ability to utilize Qiskit application module and the specific classes to solve problems in various areas like battery revenue optimization problem using Qiskit knapsack class and find the optimized solution with QAOA.
 
-    * Issued a badge for learning to use Qiskit’s application module in the area of Finance and Natural sciences.
+    * Learn to use Qiskit’s application module in the area of Finance and Natural sciences.
     * Able to successfully implement Variational Quantum algorithms to optimize finance portfolios and reliably predict the excited states of a molecule specified in    the challenge problem.
     * Generated ability to successfully run VQE using Qiskit Runtime and demonstrated an ability to use Qiskit’s application module in the area of finance and natural sciences.
 
