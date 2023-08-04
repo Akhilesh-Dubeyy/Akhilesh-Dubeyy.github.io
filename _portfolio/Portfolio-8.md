@@ -2,7 +2,7 @@
 title: "Joy of computing using python(IIT Madras)"
 excerpt: "Received certification for demonstration of proficiency in the python language."
 collection: portfolio
-date: 2019-03-30
+
 ---
 
 

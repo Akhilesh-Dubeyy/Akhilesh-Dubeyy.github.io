@@ -2,7 +2,7 @@
 title: "QWorld Diploma"
 excerpt: "Recieve Certification for QBronze Course"
 collection: portfolio
-date: 2020-11-15
+
 ---
 [Verify](https://1drv.ms/i/s!AllCcwLfbSCpiGJQVuyhNfyHErRU?e=gChWuj)
 
