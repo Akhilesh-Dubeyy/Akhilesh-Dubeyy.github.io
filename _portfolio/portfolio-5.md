@@ -1,19 +1,17 @@
 ---
-title: "Wolfram Language"
-excerpt: "Received various certification for demonstration of proficiency in the Wolfram language.
-<br/> <br/><img src=''>"
+title: "QWorld Diploma"
+excerpt: "Recieve Certification for QBronze Course"
 collection: portfolio
-date: 2020-07-1
+date: 2020-11-15
 ---
+[Verify](https://1drv.ms/i/s!AllCcwLfbSCpiGJQVuyhNfyHErRU?e=gChWuj)
 
+* Learned about classical systems (Probabilistic bits, coin-flipping, biased coins, probabilistic states, and probabilistic operators, correlation).
 
-* [Calculus](https://1drv.ms/f/s!AllCcwLfbSCpiXQzQYf3WehqK1pP?e=dIAZtf) By Wolfram Mathematica.
- <br>Learned lesson videos, polling the group to review key concepts, by a Wolfram-certified instructor who
-guides each session by sharing introducing practice problems and answering questions.
- <br> Focused on building fundamental concepts in calculus. A certificate of program completion will be
-awarded to participants who attend online sessions and pass quizzes.
+* Learned about squantum systems (Quantum programs as circuits: registers, gates, measurements, execution, and reading the outcomes, quantum state and operators).
 
-* [Linear Algebra](https://drive.google.com/file/d/1_OV9pjrkHdzFHuuhxlkypiVSgfU9mKQs/view?usp=sharing) By Wolfram Mathematica
- <br>Concepts and techniques learned from linear algebra in cutting-edge disciplines such as data science,
-quantum computation and in the field of numerical analysis.
- <br> Solved and attend online sessions and pass quizzes to get course completion .
+* Quantum operators on a quantum bit.
+
+* Entanglement and basics quantum protocols.
+
+* Quantum search algorithm.
