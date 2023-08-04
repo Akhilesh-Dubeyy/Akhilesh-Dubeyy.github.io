@@ -2,7 +2,7 @@
 title: "Computational Mathematics with Sage Math (IIT Madras)"
 excerpt: "Recieved certification after succesfully completed the course using python"
 collection: portfolio
-date: 2020-03-28
+
 ---
 [Verify](https://drive.google.com/file/d/1Qp8OlHM_cBg11TbD5UwFV9r5eprL-3hB/view?usp=sharing) 
 

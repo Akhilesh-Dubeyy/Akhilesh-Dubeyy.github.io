@@ -3,7 +3,7 @@ title: "Wolfram Language"
 excerpt: "Received various certification for demonstration of proficiency in the Wolfram language.
 <br/> <br/><img src=''>"
 collection: portfolio
-date: 2020-07-1
+
 ---
 
 

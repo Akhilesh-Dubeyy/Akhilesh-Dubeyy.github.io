@@ -2,7 +2,7 @@
 title: "Physics through computational thinking by IISER Bhopal"
 excerpt: "Received certification for demonstration of proficiency in computational physics."
 collection: portfolio
-date: 2022-03-1
+
 ---
  [Verify](https://drive.google.com/file/d/1TMtBedE89AJJyHe2vZj6Nv2CmdCSnBMR/view?usp=sharing)
 
