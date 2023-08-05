@@ -12,9 +12,9 @@ title                    : "Akhilesh Dubey"
 title_separator          : "-"
 name                     : &name "Akhilesh Dubey"
 description              : &description "M.Sc. Physics Student"
-url                      : https://stoicodin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Akhilesh-Dubeyy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stoicodin/stoicodin.github.io"
+repository               : "Akhilesh-Dubeyy/Akhilesh-Dubeyy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
