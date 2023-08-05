@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-* Graduated from Bachelors (Honours) Physics Program (2018-21 batch), Rank 1 in Jamia Millia Islamia which is in top 3 rank university in India.
+* Graduated from Bachelors (Honours) Physics Program (2018-21 batch), Rank 4 in Jamia Millia Islamia which is in top 3 rank university in India.
 * Ranked under top 23% in Joint Admission test for Masters out of total 14298 candidates.
 * Cleared several IBM Quantum Challenges:
   * Spring 2022<br>
