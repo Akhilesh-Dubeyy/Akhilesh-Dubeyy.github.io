@@ -14,3 +14,6 @@ redirect_from:
 * I'm from New Delhi, India.
 * Please reach me at <a href = "mailto: akhileshdubey799@gmail.com">akhileshdubey799[at]gmail[dot]com</a>
 * For more details, check out my [CV](https://Akhilesh-Dubeyy.github.io/files/Resume_Akhilesh_June.pdf)
+
+
+https://github.com/Akhilesh-Dubeyy/Akhilesh-Dubeyy.github.io/blob/2ba1c53c3aa7dd0f572f877a3dee7719906b7c91/files/Resume_Akhilesh_June%20.pdf

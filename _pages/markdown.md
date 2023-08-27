@@ -9,6 +9,11 @@ redirect_from:
 
 * Graduated from Bachelors (Honours) Physics Program (2018-21 batch), Rank 4 in Jamia Millia Islamia which is in top 3 rank university in India.
 * Ranked under top 23% in Joint Admission test for Masters out of total 14298 candidates.
+* IBM Certified Associate Developer – Quantum Computation using Qiskit v0.2x
+  IBM Professional Certification for the experience using the Qiskit SDK to create and execute quantum computing programs on IBM Quantum computers and simulators.
+
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6e8264b5-ed9a-44d5-a34b-30e9940c3ee7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 * Cleared several IBM Quantum Challenges:
   * Spring 2022<br>
     Got the badge for demonstrating  an understanding of how to create circuits that perform measurements mid-circuit and dynamically decide what the next steps should be and implementing dynamic circuits in the context of iterative phase estimation, quantum teleportation, and error correction.
