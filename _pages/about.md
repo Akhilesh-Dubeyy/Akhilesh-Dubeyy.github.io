@@ -13,7 +13,7 @@ redirect_from:
 * I received my Bachelor’s Degree with honours in Physics at Jamia Millia Islamia. 
 * I'm from New Delhi, India.
 * Please reach me at <a href = "mailto: akhileshdubey799@gmail.com">akhileshdubey799[at]gmail[dot]com</a>
-* For more details, check out my [CV](https://Akhilesh-Dubeyy.github.io/files/Resume_Akhilesh_June.pdf)
+* For more details, check out my [CV](https://Akhilesh-Dubeyy.github.io/files/Resume_Akhilesh_June_.pdf)
 
 
 https://github.com/Akhilesh-Dubeyy/Akhilesh-Dubeyy.github.io/blob/2ba1c53c3aa7dd0f572f877a3dee7719906b7c91/files/Resume_Akhilesh_June%20.pdf
